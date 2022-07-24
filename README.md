@@ -8,7 +8,14 @@ MovieTube.sql file is located in In sql folder
 
 # Accounts for login
 
-User can create/edit job posts
+Admin can create/delete movies
+User can only review/comment on them
 
-username: daniel@gmail.com
-pass:     daniel
+username: admin@gmail.com
+pass:     admin
+
+username: zanko@gmail.com  
+pass:     zanko@gmail.com
+
+username: lildickey@gmail.com
+pass:     lildickey
